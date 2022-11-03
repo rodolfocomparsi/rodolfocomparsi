@@ -1,15 +1,16 @@
 ### Hello devs👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Apaixoando por tecnologia e como ela pode impactar a vida das pessoas
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object ** Rodolfo ** {
+object ** ROD ** {
  val name = "Rodolfo Comparsi"
- val acknowledgements = "IOS Developer"
+ val acknowledgements = "IOS Developer" & "Software Engineer"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Swift", "Design Pattern", "MVVM/MVC", "JSON") 
@@ -32,7 +33,7 @@ object ** Rodolfo ** {
 
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
+[twitter]: https://twitter.com/rodolfocomparsi
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/rodolfocomparsi/
 [linkedin]: https://www.linkedin.com/in/rodolfo-comparsi-a772b1233/
