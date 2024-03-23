@@ -9,11 +9,11 @@ Apaixoando por tecnologia e como ela pode impactar a vida das pessoas
 
 ```kotlin
 object ** ROD ** {
- val name = "Rodolfo Comparsi"
- val acknowledgements = "IOS Developer" & "Software Engineer"
+ var name = "Rodolfo Comparsi"
+ var acknowledgements = "IOS Developer" & "Software Engineer"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Swift", "Design Pattern", "MVVM/MVC", "JSON") 
+ var primarySkillset = "ALGUMAS HABILIDADES"
+ var languages = listOf("Swift", "Design Pattern", "MVVM/MVC", "JSON") 
 
 }
 ```
