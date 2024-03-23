@@ -1,6 +1,6 @@
 ### Hello devs👋
 
-Apaixoando por tecnologia e como ela pode impactar a vida das pessoas
+Apaixonado por tecnologia e como ela pode impactar a vida das pessoas
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
